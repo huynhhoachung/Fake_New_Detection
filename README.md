@@ -1,4 +1,4 @@
-# <h3 align="center"><font size="15"><b>Fake News Detection </b></font></h3> 
+# <h3 align="center"><font size="15"><b>Fake News Detection Evaluation </b></font></h3> 
 </br>
 
 **Task type:** Classification
@@ -11,4 +11,7 @@
 # 2. Use case
 **Recently, Fake news is becoming increasingly prevalent, and it can have serious implications. NLP can be used to detect and classify fake news in order to protect society from its damaging effects. Additionally, NLP can be used to identify topics and trends in news articles, which can be beneficial for research and news outlets.**
 # 3. Result
+In terms of accuracy,
+On the other hand, precision
+While with with recall, 
 # 4. Conclusion
